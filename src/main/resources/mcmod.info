@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "simplevoidminers",
+        "name": "Simple Void Miners",
+        "description": "Generates resources from the void.",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["leopard501"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
